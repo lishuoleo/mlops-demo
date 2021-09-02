@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Weights and Bias runs and artifacts
+wandb/
+artifacts/
+
+# MLflow runs
+mlruns/
+
+# Hydra outputs
+outputs/
